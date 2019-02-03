@@ -203,6 +203,15 @@ li {
 	font-size: 19px;
 	margin: 50px 0px 15px 0px;
 }
+@media (min-width:1550px) {
+	.firstblock {
+		margin-top: 60px;
+		font-size: 56px;
+	}
+	.buttons {
+		margin-bottom: 150px;
+	}
+}
 @media (max-width:1400px) {
 	.firstblock {
 		margin-top: 15px;
