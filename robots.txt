@@ -3,4 +3,3 @@ Allow: /index.html
 Allow: /topbloggers.png
 Disallow: /
 Host: https://topbloggers.club
-Sitemap: http://topbloggers.club/sitemap.xml
