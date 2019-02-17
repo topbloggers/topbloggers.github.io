@@ -1,2 +1,2 @@
 # topbloggers.github.io
-Top bloggers - крупнейшее сообщество блогеров в интернете
+Top bloggers - надежная платформа для рекламных компаний
