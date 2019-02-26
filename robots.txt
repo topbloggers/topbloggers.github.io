@@ -3,5 +3,6 @@ Allow: /index.html
 Allow: /topbloggers.png
 Allow: /icon.png
 Allow: /adlogo.png
-Disallow: /
+Disallow: /*.png$
+Disallow: /*.jpg$
 Host: https://topbloggers.club
