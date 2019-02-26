@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /index.html
 Allow: /topbloggers.png
+Allow: /icon.png
+Allow: /adlogo.png
 Disallow: /
 Host: https://topbloggers.club
