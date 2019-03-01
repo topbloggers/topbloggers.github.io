@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /*
 Allow: /index.html
 Allow: /topbloggers.png
 Allow: /icon.png
@@ -6,3 +7,4 @@ Allow: /adlogo.png
 Disallow: /*.png$
 Disallow: /*.jpg$
 Host: https://topbloggers.club
+Host: https://topbloggers.github.io
