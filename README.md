@@ -1,2 +1,2 @@
 # topbloggers.github.io
-Top bloggers - надежная платформа для ваших рекламных компаний
+Top bloggers - Закажи рекламу у блогеров!
