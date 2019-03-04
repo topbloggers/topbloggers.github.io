@@ -1,2 +1,2 @@
 # topbloggers.github.io
-Top bloggers - Закажи рекламу у блогеров!
+Top bloggers - Заказать рекламу у топовых блогеров!
