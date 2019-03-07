@@ -1,10 +1,16 @@
 User-agent: *
+
 Allow: /*
+
 Allow: /index.html
+
 Allow: /topbloggers.png
+
 Allow: /icon.png
+
 Allow: /adlogo.png
-Disallow: /*.png$
-Disallow: /*.jpg$
+
 Host: https://topbloggers.club
-Sitemap: https://topbloggers.club/sitemap.xml
+
+Sitemap: https://topbloggers.club
+/sitemap.xml
